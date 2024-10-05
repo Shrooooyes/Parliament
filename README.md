@@ -33,11 +33,6 @@ The project is structured with the following key components:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgements
 
